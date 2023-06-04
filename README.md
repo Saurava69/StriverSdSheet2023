@@ -20,7 +20,7 @@ Arrays Part-III(6q)
 # Day 8
 : Greedy Algorithm
 (0/6)
-#Day 9
+# Day 9
 : Recursion
 (0/6)
 # Day 10
